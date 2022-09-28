@@ -1,0 +1,1 @@
+increases focus by 2, makes sonically charged shots consume 2 focus every 5 ticks its used, but increases their damage by 0.5xDPS

@@ -1,0 +1,1 @@
+the player is no longer slowed down when charging shots

@@ -1,0 +1,1 @@
+20% chance not to consume projectiles shot from quivers

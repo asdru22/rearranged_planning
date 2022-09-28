@@ -1,0 +1,1 @@
+arrows shot while in the air will always crit
