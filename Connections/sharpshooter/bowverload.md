@@ -1,1 +1,0 @@
-when the player sneaks, their field of view will slowly focus on where they are looking, and on release will fire a high speed bolt that can pierce up to 7 enemies and deal 2xdps damage

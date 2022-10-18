@@ -1,1 +1,0 @@
-grants a 33% chance to have stars fall on hit enemies. Stars deal 0.5xDPS damage

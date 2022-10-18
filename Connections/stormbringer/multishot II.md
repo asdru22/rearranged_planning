@@ -1,1 +1,0 @@
-Bows have a 50% chance to shoot 3 arrows
